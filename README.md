@@ -1,3 +1,5 @@
+Credit to  [@jonasschmedtman](https://twitter.com/jonasschmedtman)
+
 # Course Material and FAQ for "Build Responsive Real-World Websites with HTML and CSS"
 
 This repo contains starter files and final code for all sections and projects contained in the course.
